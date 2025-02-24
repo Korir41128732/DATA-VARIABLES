@@ -1,6 +1,6 @@
 /*
-author:gideon mugambi
-reg no.d33-8563-2021
+author:KORIR DUNCAN
+reg no.D33-2455-2023
 Program:to find simple interest 
 date:20/2/2025
 */
